@@ -1,0 +1,1 @@
+# eemr_graficas_barras_canvas
